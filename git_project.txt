@@ -3,4 +3,4 @@ Department of Technology.
 We are learning git hub.
 my team is doing very well.
 We are very excited to learn github.
-my first repository
+my first repository on github.
