@@ -1,2 +1,3 @@
 Welcome to University of Lahore!
-Department of Technology
+Department of Technology.
+We are learning git hub.
